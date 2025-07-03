@@ -32,9 +32,11 @@ A beautiful, modern, and fully-featured personal task management app built with 
 [Link to deployed application]
 
 ## 🖼 Screenshots
-![Task Tracker Light Mode](screenshots/light-mode.png)
-![Task Tracker Dark Mode](screenshots/dark-mode.png)
+![Task Tracker Light Mode]![Screenshot 2025-07-03 160947](https://github.com/user-attachments/assets/74de1e8c-b333-43c1-96f0-5a278a39403b)
+
+![Task Tracker Dark Mode]![Screenshot 2025-07-03 160959](https://github.com/user-attachments/assets/03b9391d-a732-4f6f-944c-3822a28409a8)
+
 
 ---
 
-**Assignment by [Your Name]** 
+**Assignment by Raghav Sharma** 
